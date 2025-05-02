@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Taco Bell menu items 
+// Taco Bell menu items array 
 $menu = [
     1 => ['name' => 'Taco', 'price' => 129],
     2 => ['name' => 'Soda', 'price' => 50],
